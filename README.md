@@ -13,11 +13,8 @@ This dashboard was built to help Blinkit (an instant delivery platform) understa
 🔍 Dynamic Filters — Slicers for outlet size, location, and item type
 🧮 DAX Measures — Custom calculations for deeper business insights
 
-
 🛠️ Tools & Technologies
 ToolUsagePower BI DesktopDashboard creation & visualizationDAXCustom measures and KPI calculationsExcel / CSVRaw data source
-
-
 
 
 💡 Key Insights
